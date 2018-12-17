@@ -1,0 +1,11 @@
+D:\source\steamStreamSports\bin\Debug\netcoreapp2.2\steamStreamSports.deps.json
+D:\source\steamStreamSports\bin\Debug\netcoreapp2.2\steamStreamSports.runtimeconfig.json
+D:\source\steamStreamSports\bin\Debug\netcoreapp2.2\steamStreamSports.runtimeconfig.dev.json
+D:\source\steamStreamSports\bin\Debug\netcoreapp2.2\steamStreamSports.dll
+D:\source\steamStreamSports\bin\Debug\netcoreapp2.2\steamStreamSports.pdb
+D:\source\steamStreamSports\obj\Debug\netcoreapp2.2\steamStreamSports.csprojAssemblyReference.cache
+D:\source\steamStreamSports\obj\Debug\netcoreapp2.2\steamStreamSports.csproj.CoreCompileInputs.cache
+D:\source\steamStreamSports\obj\Debug\netcoreapp2.2\steamStreamSports.AssemblyInfoInputs.cache
+D:\source\steamStreamSports\obj\Debug\netcoreapp2.2\steamStreamSports.AssemblyInfo.cs
+D:\source\steamStreamSports\obj\Debug\netcoreapp2.2\steamStreamSports.dll
+D:\source\steamStreamSports\obj\Debug\netcoreapp2.2\steamStreamSports.pdb
