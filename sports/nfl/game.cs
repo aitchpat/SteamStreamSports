@@ -33,7 +33,7 @@ namespace steamStreamSports{
             List<CommentThreadChild> aceThreads = comments.Where(x => x.data.body.IndexOf("acestream://")!=-1).ToList();
             if(aceThreads.Count > 0){
                 string topAceStream = aceThreads[0].data.body;
-                string aceLink = topAceStream.Substring(topAceStream.IndexOf("acestream://"));
+                string aceLink = topAceStream.Substring(topAceStream.IndexOf("acestream://")+12);
                 if(aceLink.IndexOf(" ") == -1){
                     aceLink = aceLink.Trim();
                 }else{

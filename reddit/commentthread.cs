@@ -5,14 +5,9 @@ public class CommentThread{
 }
 
 public class CommentThreadData{
-    public string modHash{get;set;}
-    public int? dist{get;set;}
     public CommentThreadChild[] children {get;set;}
-    public int? after{get;set;}
-    public int? before{get;set;}
 }
 public class CommentThreadChild{
-    public string kind {get;set;}
     public CommentData data {get;set;}
 
 }
